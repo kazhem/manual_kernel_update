@@ -1,0 +1,3 @@
+.vagrant/
+packer/centos-7.9.2009-kernel-5-x86_64-Minimal.box
+.DS_Store
